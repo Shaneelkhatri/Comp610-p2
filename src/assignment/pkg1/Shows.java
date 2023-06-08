@@ -21,10 +21,5 @@ public class Shows {
 		System.out.println();
 	}
 	
-	public void printDealerValue(Dealer dealer)
-	{
-		System.out.println("The dealers' hand is valued at:");
-		System.out.println(dealer.getTotal());
-		System.out.println();
-	}
+	
 }
